@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 i'm student in Admin Sys/DevOps
 -------------------------------
 
-* 🧠  I'm learning C++, Kubernetes, Docker, Ansible, Powershell ect...
+* 🧠  I'm learning Traefik, Kubernetes, Docker, Ansible, Powershell ect...
 
 ### Skills
 
